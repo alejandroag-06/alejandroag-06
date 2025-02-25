@@ -10,7 +10,7 @@
   ✔️ Configuración de servicios críticos (DNS, DHCP, VPN)  
   ✔️ Gestión de bases de datos relacionales con MySQL  
   ✔️ Virtualización de servidores (Hyper-V/VMware)
-  ✔️ Uso de lenguajes de marcas (HTML/CSS)  
+   ✔️ Uso de lenguajes de marcas (HTML/CSS)  
   ✔️ Mantenimiento hardware/software de alto impacto  
 
 ---
