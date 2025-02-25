@@ -18,7 +18,7 @@
 ### **🛠️ Tech Stack**  
 | **Área**           | **Tecnologías y Habilidades**                                              |  
 |---------------------|-----------------------------------------------------------------------------|  
-| **Administración**  | Active Directory, SAMBA, SECUACE, PowerShell scripting básico             |  
+| **Administración**  | Active Directory, SAMBA, SECUACE             |  
 | **Redes**           | Configuración de routers Cisco, TCP/IP, análisis de tráfico con Wireshark |  
 | **Bases de Datos**  | MySQL (optimización de consultas, normalización de esquemas)              |  
 | **Mantenimiento**   | Diagnóstico avanzado de hardware, gestión de inventario, sustitución de componentes críticos |  
