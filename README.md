@@ -9,8 +9,8 @@
   ✔️ Administración avanzada de Active Directory y políticas grupales  
   ✔️ Configuración de servicios críticos (DNS, DHCP, VPN)  
   ✔️ Gestión de bases de datos relacionales con MySQL  
-  ✔️ Virtualización de servidores (Hyper-V/VMware)
-   ✔️ Uso de lenguajes de marcas (HTML/CSS)  
+  ✔️ Virtualización de servidores (Hyper-V/VMware)  
+  ✔️ Uso de lenguajes de marcas (HTML/CSS)  
   ✔️ Mantenimiento hardware/software de alto impacto  
 
 ---
@@ -30,12 +30,12 @@
 ✅ **Logros técnicos**:  
 - Gestión centralizada de 50+ equipos mediante Active Directory.  
 - Mantenimiento proactivo de servidores SAMBA (99.8% disponibilidad).  
-- Depuración de 200+ registros obsoletos en bases de datos institucionales.  
-- Sustitución de 15+ HDDs/SSDs críticos con cero tiempo de inactividad.
+- Depuración de 200+ registros obsoletos en la base de datos del Servicio Murciano de Salud.  
+- Sustitución de 15+ HDDs/SSDs críticos.
 
 🔍 **Habilidades adquiridas**:  
 - Trabajo en entornos de alta disponibilidad con protocolos de seguridad hospitalaria.  
-- Coordinación con equipos multidisciplinares para resolver incidencias críticas en <24h. 
+- Coordinación con equipos IT para resolver incidencias críticas en <24h. 
 
 🧠 **Insight profesional**:  
 *"El 40% de las incidencias hospitalarias eran repetitivas y resolubles con herramientas de autodiagnóstico básico."*  
