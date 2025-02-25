@@ -4,8 +4,8 @@
 ---
 
 ### **🌱 Formación Actual**  
-🎓 **Cursando Administración de Sistemas Informáticos en Red**:  
-- **Módulos clave**:  
+🎓 #### **Cursando Administración de Sistemas Informáticos en Red**:  
+- ##### **Módulos clave**:  
   ✔️ Administración avanzada de Active Directory y políticas grupales  
   ✔️ Configuración de servicios críticos (DNS, DHCP, VPN)  
   ✔️ Gestión de bases de datos relacionales con MySQL  
