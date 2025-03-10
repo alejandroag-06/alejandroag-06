@@ -51,5 +51,5 @@
 ---
 
 ### **📫 Conectemos**  
-[![LinkedIn](https://img.shields.io/badge/-Alejandro_Aledo-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuperfil)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-Alejandro_Aledo-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/alejandro-aledo-garc%C3%ADa-819188309/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://tuportfolio.com](https://alejandroag-06.github.io/Porfolio/))  
