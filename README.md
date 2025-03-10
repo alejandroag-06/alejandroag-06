@@ -25,13 +25,13 @@
 
 ---
 
-### **🏥 Experiencia Clave: Prácticas en HCU Virgen de la Arrixaca**  
+### **🏥 Experiencia Laboral: Prácticas en HCU Virgen de la Arrixaca**  
 #### **Técnico de Sistemas Junior**  
 ✅ **Logros técnicos**:  
 - Gestión centralizada de 50+ equipos mediante Active Directory.  
-- Mantenimiento proactivo de servidores SAMBA (99.8% disponibilidad).  
-- Depuración de 200+ registros obsoletos en la base de datos del Servicio Murciano de Salud.  
-- Sustitución de 15+ HDDs/SSDs críticos.
+- Mantenimiento proactivo de servidores SAMBA.  
+- Depuración de registros obsoletos en la base de datos del Servicio Murciano de Salud.  
+- Sustitución de HDDs/SSDs críticos.
 
 🔍 **Habilidades adquiridas**:  
 - Trabajo en entornos de alta disponibilidad con protocolos de seguridad hospitalaria.  
