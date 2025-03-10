@@ -38,7 +38,7 @@
 - Coordinación con equipos IT para resolver incidencias críticas en <24h. 
 
 🧠 **Insight profesional**:  
-*"El 40% de las incidencias hospitalarias eran repetitivas y resolubles con herramientas de autodiagnóstico básico."*  
+*"La mayoria de las incidencias hospitalarias eran repetitivas y resolubles con aplicaciones de autodiagnóstico básico."*  
 
 ---
 
