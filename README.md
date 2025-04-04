@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alejandroag-06&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroag-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroag-06&theme=dark" />
 </div>
 
 ---
