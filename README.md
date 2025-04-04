@@ -18,7 +18,7 @@
 ### **🛠️ Tech Stack**  
 | **Área**           | **Tecnologías y Habilidades**                                              |  
 |---------------------|-----------------------------------------------------------------------------|  
-| **Administración**  | Active Directory, SAMBA, SECUACE             |  
+| **Administración**  | Active Directory, SAMBA             |  
 | **Redes**           | Configuración de routers Cisco, TCP/IP, análisis de tráfico con Wireshark |  
 | **Bases de Datos**  | MySQL (optimización de consultas, normalización de esquemas)              |  
 | **Mantenimiento**   | Diagnóstico avanzado de hardware, gestión de inventario, sustitución de componentes críticos |  
@@ -28,7 +28,7 @@
 ### **🏥 Experiencia Laboral: Prácticas en HCU Virgen de la Arrixaca**  
 #### **Técnico de Sistemas Junior**  
 ✅ **Logros técnicos**:  
-- Gestión centralizada de 50+ equipos mediante Active Directory.  
+- Gestión de 50+ equipos mediante Active Directory.  
 - Mantenimiento proactivo de servidores SAMBA.  
 - Depuración de registros obsoletos en la base de datos del Servicio Murciano de Salud.  
 - Sustitución de HDDs/SSDs críticos.
@@ -36,9 +36,6 @@
 🔍 **Habilidades adquiridas**:  
 - Trabajo en entornos de alta disponibilidad con protocolos de seguridad hospitalaria.  
 - Coordinación con equipos IT para resolver incidencias críticas en <24h. 
-
-🧠 **Insight profesional**:  
-*"La mayoria de las incidencias hospitalarias eran repetitivas y resolubles con aplicaciones de autodiagnóstico básico."*  
 
 ---
 
