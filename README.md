@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alejandroag-06&theme=dark&show_icons=true" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroag-06&theme=dark)](https://github.com/alejandroag-06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroag-06&theme=dark)](https://github.com/alejandroag-06/HTML)
 
 ---
 
