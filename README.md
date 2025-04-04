@@ -49,9 +49,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alejandroag-06&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroag-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroag-06&theme=dark)](https://github.com/alejandroag-06/HTML)
+</div>
 
 ---
 
