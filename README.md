@@ -47,6 +47,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroag-06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroag-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
 ### **📫 Conectemos**  
 [![LinkedIn](https://img.shields.io/badge/-Alejandro_Aledo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-aledo-garc%C3%ADa-819188309/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandroag-06.github.io/Porfolio/) 
